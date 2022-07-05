@@ -1,1 +1,1 @@
-The purpose of this system is to navigate to the next bext action.
+The purpose of this system is to navigate to the next best action.
