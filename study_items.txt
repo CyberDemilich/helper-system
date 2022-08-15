@@ -1,3 +1,5 @@
 fish
 https://www.reddit.com/r/fishshell/
 https://github.com/PatrickF1/fzf.fish
+
+tmux
